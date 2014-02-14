@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" build-on-make="true" name="Playground:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="playground-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="Playground:war exploded" />
+    </root>
+  </artifact>
+</component>
